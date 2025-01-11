@@ -122,7 +122,7 @@ class Counting_LiveStocks:
 
 model_name = "yolov8x-seg.pt"
 # video_path = "videos/Off ewe go sheep sorting.mp4"
-video_path = "videos\sheeps2.mp4"
+video_path = "videos/sheeps2.mp4"
 #output_path = "/results/example"
 my_cls = Counting_LiveStocks(model_name, video_path)
 my_cls()
