@@ -1,0 +1,11 @@
+!.gitignore
+
+results/
+videos/
+
+__pycache__
+tags
+
+*.pyc
+*.swp
+*~
